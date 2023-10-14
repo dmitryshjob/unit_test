@@ -1,5 +1,5 @@
-image: Visual Studio 2015 # образ для сборки Ubuntu1804
-stack: node 12 # окружение
+image: Visual Studio 2019 # образ для сборки Ubuntu1804
+stack: node 18.16.0 # окружение
 branches:
   only:
     - main # ветка git
